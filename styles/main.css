@@ -35,7 +35,7 @@ h1,h2{
   margin-left: auto;
   height: 1px;
   width: 60px;
-  background-color: #CD6155;
+  background-color: rgb(0,200,255);
 }
 
 .screen{
@@ -244,7 +244,8 @@ h1,h2{
   background: rgba(0,0,0,.6);
 }
 #contentWrapper section:nth-child(odd){
-  background: rgba(255,0,0,.7);
+  background: rgba(0,200,255,.7);
+  /*rgba(255,0,0,.7)*/
 }
 #contentWrapper section:nth-child(odd) .border{
   background-color: black;
