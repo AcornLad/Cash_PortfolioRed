@@ -184,9 +184,9 @@ h1,h2{
   width: 30%;
   height: 125px;
 
-  box-shadow: -10px -10px 0px black;
+  /*box-shadow: -10px -10px 0px black;
   -moz-box-shadow: -10px -10px 0px black;
-  -webkit-box-shadow: -10px -10px 0px black;
+  -webkit-box-shadow: -10px -10px 0px black;*/
 }
 #portraitRow{
   height: auto;
