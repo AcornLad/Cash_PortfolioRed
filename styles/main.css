@@ -10,8 +10,8 @@ body{
 nav{
   width: 100%;
   background-color: white;
-  border-bottom: 7px dotted #000;
-	box-shadow: inset 0 -3px 0 0 white, 0 3px 0 0 #000;
+  /*border-bottom: 7px dotted #000;
+	box-shadow: inset 0 -3px 0 0 white, 0 3px 0 0 #000;*/
 }
 h1,h2{
   text-align: center;
@@ -111,6 +111,7 @@ h1,h2{
   display: block;
   color: black;
   text-align: center;
+  width: 25%;
   padding: 14px 16px;
   text-decoration: none;
   font-weight: bold;
@@ -118,10 +119,10 @@ h1,h2{
   font-family: 'Aleo',sans-serif;
 }
 .stickyNav a:hover{
-
-  text-decoration: underline;
+  background-color: deepskyblue;
+  /*text-decoration: underline;
   text-decoration-color: red;
-  text-decoration-style: solid;
+  text-decoration-style: solid;*/
 }
 
 .skillColumn{
